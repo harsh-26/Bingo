@@ -1,0 +1,15 @@
+#generate-button{
+    display: none;
+}
+#host-button{
+    display: none;
+}
+.host{
+    display: none;
+}
+  
+.words{
+    border: 1px solid black;
+    padding: 5px;
+    width: 100px;
+}
